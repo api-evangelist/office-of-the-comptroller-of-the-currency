@@ -8,7 +8,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2025-01-02'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   The Office of the Comptroller of the Currency (OCC) is a federal agency
@@ -24,5 +24,5 @@ description: >-
   the interests of depositors, borrowers, and the overall economy.
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
