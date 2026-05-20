@@ -19,6 +19,8 @@ description: >-
   comply with applicable laws and regulations, and treat customers fairly.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/office-of-the-comptroller-of-the-currency
   - type: Website
     url: https://www.occ.gov/
 maintainers:
