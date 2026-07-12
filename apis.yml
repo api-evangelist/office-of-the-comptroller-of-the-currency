@@ -19,6 +19,8 @@ description: >-
   comply with applicable laws and regulations, and treat customers fairly.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/office-of-the-comptroller-of-the-currency-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/office-of-the-comptroller-of-the-currency
   - type: Website
