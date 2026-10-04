@@ -3,13 +3,14 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/office-of-the-comptroller-of-the-currency/refs/heads/main/apis.yml
 name: Office of the Comptroller of the Currency
 tags:
-  - Federal-Government
+  - Federal Government
   - Banking
   - Financial Regulation
 tags_raw:
   - Federal Government
   - Banking
   - Financial Regulation
+  - Federal-Government
 type: Index
 deliveryModel:
   model: unknown
